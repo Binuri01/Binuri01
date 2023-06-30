@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Binuri De Silva</h1>
 <h3 align="center">A passionate tech enthusiast</h3>
 
