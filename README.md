@@ -6,11 +6,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/binuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="binuri" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/binuri de silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binuri de silva" height="30" width="40" /></a>
 <a href="https://fb.com/binuri de silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="binuri de silva" height="30" width="40" /></a>
 <a href="https://instagram.com/binuri de silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="binuri de silva" height="30" width="40" /></a>
-<a href="https://dribbble.com/debinuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="debinuri" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/binuri01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="binuri01" height="30" width="40" /></a>
 </p>
 
