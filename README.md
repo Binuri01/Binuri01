@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Binuri De Silva</h1>
 <h3 align="center">A passionate tech enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Binuri01/Binuri01/assets/92708767/4b0c93da-6bd5-4f67-87f6-b8bf1ff59cb7
-">
+<!--<img align="right" alt="coding" width="400" src="![logo](https://github.com/Binuri01/Binuri01/blob/main/Developer.gif)
+">-->
 
 - 📫 How to reach me **binuridesilva27@gmail.com**
 
