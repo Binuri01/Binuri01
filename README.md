@@ -1,4 +1,6 @@
-![logo](https://github.com/Binuri01/Binuri01/blob/main/Developer.gif)
+<div align="center">
+  <img src="https://github.com/Binuri01/Binuri01/blob/main/Developer.gif" alt="Developer gif" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Binuri De Silva</h1>
 <h3 align="center">A passionate tech enthusiast</h3>
